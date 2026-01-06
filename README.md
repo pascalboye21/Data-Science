@@ -9,5 +9,5 @@ In this repository, I present some of my experiences in the fields of data scien
 - phone_classification_dataset.ipynb : Several models from scikit-learn (sklearn) are used to obtain a suitable classification model for this dataset. 
 - mnist_classification.ipynb : Image classification task solved with CNN using pytorch.
 
-### Currently in progress
-- Forecasting financial data using statistical methods only
+[//] ### Currently in progress
+[//] - Forecasting financial data using statistical methods only
